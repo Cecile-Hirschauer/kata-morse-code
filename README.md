@@ -1,7 +1,7 @@
 # kata-morse-code
 
 
-## 1) Écrire un programme en mode console qui permettra de décoder des messages rédigés en code morse.
+## 1) Écrire un programme en mode console qui permettra de décoder des messages rédigés en code morse.
 
     • Les messages à décoder seront passés par l’entrée standard (stdin).
     • Les messages décodés seront écrits sur la sortie standard (stdout).
