@@ -1,6 +1,7 @@
 # kata-morse-code
 
 ## 1) Écrire un programme en mode console qui permettra de décoder des messages rédigés en code morse.
+
     • Les messages à décoder seront passés par l’entrée standard (stdin).
     • Les messages décodés seront écrits sur la sortie standard (stdout).
 
@@ -15,6 +16,7 @@ Les messages en entrée seront construits à l’aide des caractères suivants 
 ### Exemples
 
 Exemples de messages en code morse :
+
     • ... --- ...								SOS
     • .... . .-.. .-.. ---     .-- --- .-. .-.. -..			Hello World
     • -.-. --- -.. .     -- --- .-. ... .					Code Morse
